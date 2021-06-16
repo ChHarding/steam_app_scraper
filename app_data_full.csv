@@ -1,0 +1,64 @@
+appid,name,categories,genres
+23450,Grand Ages: Rome,['Single-player'],"['Simulation', 'Strategy']"
+23460,Ceville,['Single-player'],"['Action', 'Adventure', 'Strategy']"
+23490,Tropico 3,['Single-player'],"['Simulation', 'Strategy']"
+23500,Puzzle Quest: Galactrix,"['Multi-player', 'Steam Cloud']","['Casual', 'RPG']"
+23530,Earth Defense Force: Insect Armageddon,"['Single-player', 'Multi-player', 'Co-op', 'Steam Achievements', 'Full controller support', 'Steam Cloud', 'Stats', 'Remote Play on TV']",['Action']
+23600,Depths of Peril,['Single-player'],"['Indie', 'RPG', 'Strategy']"
+23700,Puzzle Kingdoms,"['Multi-player', 'Steam Cloud']",['Casual']
+24010,Train Simulator 2021,"['Single-player', 'Steam Achievements', 'Full controller support', 'Steam Trading Cards', 'Steam Workshop', 'In-App Purchases', 'Steam Cloud', 'Steam Leaderboards']",['Simulation']
+24200,DC Universe Online,"['Multi-player', 'MMO', 'PvP', 'Online PvP', 'Co-op', 'Online Co-op', 'Cross-Platform Multiplayer', 'Steam Achievements', 'Partial Controller Support']","['Action', 'Adventure', 'Free to Play', 'Massively Multiplayer', 'RPG']"
+24240,PAYDAY The Heist,"['Single-player', 'Multi-player', 'Co-op', 'Steam Achievements', 'Steam Trading Cards', 'Steam Cloud', 'Stats']",['Action']
+24400,King Arthur - The Role-playing Wargame,"['Single-player', 'Multi-player']","['RPG', 'Strategy']"
+24420,Aquaria,"['Single-player', 'Steam Achievements', 'Partial Controller Support']",['Indie']
+24460,King Arthur: Fallen Champions,['Single-player'],"['RPG', 'Strategy']"
+24480,King Arthur II: The Role-Playing Wargame,"['Single-player', 'Steam Achievements']","['RPG', 'Strategy']"
+24670,Trainz Simulator 12,"['Single-player', 'Multi-player', 'Steam Achievements', 'Stats', 'Steam Leaderboards']",['Simulation']
+24720,SPORE Galactic Adventures,['Single-player'],"['Action', 'Simulation']"
+24740,Burnout Paradise: The Ultimate Box,"['Single-player', 'Multi-player', 'Partial Controller Support']",['Racing']
+24780,SimCity 4 Deluxe Edition,['Single-player'],"['Simulation', 'Strategy']"
+24790,Command & Conquer 3: Tiberium Wars,['Single-player'],['Strategy']
+24800,Command & Conquer: Red Alert 3 - Uprising,['Single-player'],['Strategy']
+24810,Command & Conquer 3: Kane's Wrath,,
+24810,Command & Conquer 3: Kane's Wrath,"['Single-player', 'Multi-player']",['Strategy']
+24840,Medal of Honor: Airborne,"['Single-player', 'Multi-player']",['Action']
+24870,Need for Speed: Shift,"['Single-player', 'Multi-player', 'Partial Controller Support']",['Racing']
+24960,Battlefield: Bad Company 2,"['Single-player', 'Multi-player', 'Steam Trading Cards']",['Action']
+24980,Mass Effect 2 (2010),['Single-player'],['RPG']
+25000,Overgrowth,"['Single-player', 'Multi-player', 'PvP', 'Shared/Split Screen PvP', 'Co-op', 'Shared/Split Screen Co-op', 'Steam Workshop', 'Partial Controller Support', 'Includes level editor', 'Remote Play Together']","['Action', 'Indie']"
+25010,Lugaru HD,['Single-player'],['Action']
+25600,Eschalon: Book I,['Single-player'],"['Indie', 'RPG']"
+25620,Eschalon: Book II,['Single-player'],"['Indie', 'RPG']"
+25700,Madballs in Babo:Invasion,"['Single-player', 'Multi-player', 'PvP', 'Online PvP', 'Co-op', 'Online Co-op', 'Cross-Platform Multiplayer', 'Steam Achievements', 'Partial Controller Support', 'Steam Cloud', 'Steam Leaderboards']","['Action', 'Casual', 'Indie']"
+25800,Europa Universalis III Complete,"['Single-player', 'Multi-player', 'Steam Trading Cards']",['Strategy']
+25830,Knights of Honor,"['Single-player', 'Multi-player']",['Strategy']
+25850,Elven Legacy,"['Single-player', 'Multi-player', 'Steam Cloud', 'Includes level editor']","['RPG', 'Strategy']"
+25890,Hearts of Iron III,"['Single-player', 'Multi-player', 'Co-op', 'Steam Trading Cards']",['Strategy']
+25900,King's Bounty: The Legend,"['Single-player', 'Steam Cloud']","['RPG', 'Strategy']"
+25930,East India Company,"['Single-player', 'Multi-player']",['Strategy']
+25980,Majesty 2,['Single-player'],"['Simulation', 'Strategy']"
+25990,Majesty Gold HD,"['Single-player', 'Multi-player']","['Strategy', 'Simulation']"
+26000,The Maw,"['Single-player', 'Steam Achievements']","['Action', 'Indie']"
+26500,Cogs,"['Single-player', 'Steam Achievements']","['Indie', 'Casual']"
+26800,Braid,,
+26800,Braid,"['Single-player', 'Steam Achievements', 'Full controller support', 'Steam Cloud', 'Remote Play on TV']","['Casual', 'Indie', 'Strategy']"
+26900,Crayon Physics Deluxe,['Single-player'],"['Casual', 'Indie']"
+27000,The Path,"['Single-player', 'Steam Trading Cards']","['Adventure', 'Indie']"
+27330,Blacklight: Tango Down,"['Single-player', 'Multi-player', 'Co-op', 'Partial Controller Support']",['Action']
+27400,Dangerous High School Girls in Trouble!,['Single-player'],"['RPG', 'Indie', 'Casual']"
+27900,Twin Sector,['Single-player'],"['Action', 'Adventure']"
+27920,Booster Trooper,"['Single-player', 'Multi-player', 'Steam Achievements', 'Partial Controller Support', 'Stats', 'Steam Leaderboards']","['Action', 'Indie']"
+27940,Dead Horde,"['Single-player', 'Multi-player', 'Co-op', 'Online Co-op', 'Shared/Split Screen Co-op', 'Shared/Split Screen', 'Steam Achievements', 'Partial Controller Support', 'Steam Cloud', 'Steam Leaderboards', 'Remote Play Together']","['Action', 'Indie']"
+28000,Kane & Lynch 2: Dog Days,"['Single-player', 'Multi-player', 'Co-op', 'Steam Achievements', 'Steam Leaderboards']",['Action']
+29180,Osmos,"['Single-player', 'Steam Achievements']","['Casual', 'Indie']"
+29800,Caster,"['Single-player', 'Steam Trading Cards', 'Partial Controller Support']","['Action', 'Adventure', 'Casual', 'Indie', 'RPG', 'Strategy']"
+29900,Dark Sector,"['Single-player', 'Multi-player', 'Partial Controller Support']",['Action']
+31170,Tales of Monkey Island: Complete Season,['Single-player'],"['Adventure', 'RPG']"
+31220,Sam & Max 301: The Penal Zone,['Single-player'],"['Action', 'Adventure']"
+31270,Puzzle Agent,['Single-player'],"['Action', 'Adventure', 'Casual']"
+31280,Poker Night at the Inventory,"['Single-player', 'Steam Achievements']","['Casual', 'Sports']"
+31290,Back to the Future: The Game,['Single-player'],['Adventure']
+31700,Iron Grip: Warlord,"['Single-player', 'Multi-player', 'Co-op', 'Steam Achievements']","['Action', 'Indie']"
+31830,Nancy Drew: Curse of Blackmoor Manor,['Single-player'],['Adventure']
+31870,"Nancy Drew Dossier: Lights, Camera, Curses!",['Single-player'],"['Adventure', 'Casual']"
+31880,Nancy Drew: Secret of the Old Clock,,
